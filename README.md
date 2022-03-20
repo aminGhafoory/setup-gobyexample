@@ -3,6 +3,8 @@
 
 this script creates a directory for each lesson with a `main.go` file ; main.go file is valid go code and can print the lesson name
 
+![iamge](https://raw.githubusercontent.com/aminGhafoory/setup-gobyexample/main/image.png)
+
 ## HOW TO USE
 
 - you need a linux machine or you can use WSL if you are using windows
