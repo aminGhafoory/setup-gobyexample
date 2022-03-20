@@ -1,7 +1,7 @@
 # setup-gobyexample
 [gobyexample.com](https://gobyexample.com) is a really good starting point in learning golang but it's hard and teadios to make dozens of folders for each lesson this is a script just for that.
 
-this script creates a directory for each lesson with a `main.go` file ; main.go file is valid go code and can print the lesson name
+this script creates a directory for each lesson with a `main.go` file inside ; `main.go` file is valid go code and can print the lesson name
 
 ![iamge](https://raw.githubusercontent.com/aminGhafoory/setup-gobyexample/main/image.png)
 
